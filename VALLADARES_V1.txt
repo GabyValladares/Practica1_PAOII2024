@@ -1,1 +1,4 @@
 GABY: Hola, hoy es jueves y hace frio !!!
+Nombre= Deyvi Alexander Tirira Galindo
+Cedula= 0450102785
+Color Favorito= Amarillo

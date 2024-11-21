@@ -1,0 +1,12 @@
+Criterio Personal 
+1.Sobre que es el vercionamiento de Codigo
+El vercionamiento permite gestionar, controlar, clonar cuyos cambios se hayan realizado de
+un proyecto el codigo y este  mismo es fundamental en desarrollo de software para la colaboracion de desarroladores. 
+2.Listado de comandos vistos en clases
+git clone
+git pull
+git push
+git add .
+git commit -m
+git checkout
+git branch 
