@@ -1,0 +1,4 @@
+El versionamiento es como una herramienta para el desarrollo de un software ya que con esto podemos ir avanzando 
+y guardando nuestro código para poder tener una comparativa de un antes y un después de un cambio 
+nos permite poder tener un orden y hacer cambios sin afectar a lo que teníamos a parte de tener una forma rápida de poder 
+mostrar nuestros avances a nuestro equipo de trabajo.
