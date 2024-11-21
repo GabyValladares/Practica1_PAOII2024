@@ -5,10 +5,12 @@ El versionamiento permite compartir y reutilizar código o cualquier otro tipo d
 
 comandos vistos en clases .
 
-git branch ---- -----------------permite ver el nombre de la rama en la que se está trabajando
-git checkout nombreRama_branch----permite cambiarse de rama
-git fetch-------------------------permite llamar a los archivos de un repositorio
-git pull--------------------------permite descargar la información de la nube al repositorio local
-git add .-------------------------permite guardar los cambios en el repositorio
-git commit -m --------------------permite poner un comentario
-git push--------------------------permite subir o empujar los archivos locales a la nube.
+git branch ---- -------------------permite ver el nombre de la rama en la que se está trabajando
+git checkout nombreRama_branch-----permite cambiarse de rama
+git fetch--------------------------permite llamar a los archivos de un repositorio
+git pull---------------------------permite descargar la información de la nube al repositorio local
+git add . -------------------------permite guardar los cambios en el repositorio
+git commit -m ---------------------permite poner un comentario
+git push---------------------------permite subir o empujar los archivos locales a la nube.
+git clone--------------------------permite clonar un repositorio de la nube al computador
+git checkout -b nombreRama_branch--permite crear y cambiarse de rama a la vez
