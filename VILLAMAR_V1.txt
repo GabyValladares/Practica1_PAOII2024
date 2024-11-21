@@ -2,3 +2,21 @@ El versionamiento es como una herramienta para el desarrollo de un software ya q
 y guardando nuestro código para poder tener una comparativa de un antes y un después de un cambio 
 nos permite poder tener un orden y hacer cambios sin afectar a lo que teníamos a parte de tener una forma rápida de poder 
 mostrar nuestros avances a nuestro equipo de trabajo.
+
+git init
+
+git add . 
+
+git commit -m "descripción"
+
+git push
+
+git Branch -M master
+
+git Branch
+
+git checkout
+
+git checkout -b nombre de la rama 
+
+git pull
