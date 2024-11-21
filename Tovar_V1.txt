@@ -1,8 +1,8 @@
---- ¿Qué es el versionamiento de código fuente? ---
+Qué es el versionamiento de código fuente? 
 
-Es el control y registro de los cambios realizados en el código de un proyecto,que permite la colaboración y seguimiento de vrsiones de manera eficiente
+Es el registro de los cambios hechos en el código que permite la colaboración y seguimiento de vrsiones de manera eficiente
 
---- Comandos vistos en clase --
+Lista de comandos vistos en clase 
 
 - git --version
 - git config --list

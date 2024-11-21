@@ -1,1 +1,5 @@
 GABY: Hola, hoy es jueves y hace frio !!!
+
+Nombre completo: Marco Tovar
+Número de cédula: 1005425895
+Color favorito: Negro
