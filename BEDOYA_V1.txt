@@ -1,0 +1,14 @@
+¿Qué es el versonamiento de código fuente?
+El versonamiento es la modifición y gestión de cambios en archivos, en el cual a través de un repositorio
+en GitHub, junto con colaboradores subimos el código fuente de lo que se este tratando.
+
+Listado de comandos:
+git add
+git commit
+git push
+git fetch
+git pull
+git origin 
+git Branch
+git checkout 
+git clone
