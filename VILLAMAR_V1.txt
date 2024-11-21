@@ -3,20 +3,21 @@ y guardando nuestro código para poder tener una comparativa de un antes y un de
 nos permite poder tener un orden y hacer cambios sin afectar a lo que teníamos a parte de tener una forma rápida de poder 
 mostrar nuestros avances a nuestro equipo de trabajo.
 
-git init
+git init -> Inicia un nuevo repositorio de Git.
 
-git add . 
+git add . -> Agrega los archivos actualizados para subirlos al repositorio remoto
 
-git commit -m "descripción"
+git commit -m "descripción" -> Guarda los cambios en el repositorio con un mensaje descriptivo.
 
-git push
+git push -> Empuja los archivos locales con el commit al repositorio remoto
 
-git Branch -M master
+git Branch -M master -> crea la rama principal
 
-git Branch
+git Branch -> muestra las ramas 
 
-git checkout
+git checkout Nombre_rama -> Cambia de rama 
 
-git checkout -b nombre de la rama 
+git checkout -b nombre de la rama  -> crea rama y cambia a la rama creada
 
-git pull
+git pull -> descarga los datos del repositorio remoto al repositorio local en la computadora
+
