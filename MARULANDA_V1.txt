@@ -1,0 +1,22 @@
+1)Que es el versionamiento de código fuente?
+Practicamente es un una practica que hacen los desarrolladores de software para gestionar y rastrear los cambios que se haya realizado en el código fuente.
+
+2)Comandos vistos en clases
+git>git --version
+git version 2.28.0.windows.1
+git config --global user.name "Marulanda6"
+git config --global user.email nahim.marulanda686@ist17dejulio.edu.ec
+git config --list
+git init para crear un nuevo repositorio
+git commit -m "Archivo vacio MARULANDA_V1"
+git branch -M master
+git add .
+git -u origin master
+git branch
+git branch Marulanda_v2
+git branch checkout y el nombre de la rama al que quieres cambiar
+git clone link.ejemplo.com
+git fetch para traer los cambios 
+git pull para descargar los cambios
+git pull origin nombre.branch para copiar la rama1 y rama2 
+git add y el nombre de comando por ejemplo pato.txt 
