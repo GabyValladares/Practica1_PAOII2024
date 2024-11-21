@@ -1,0 +1,15 @@
+¿Qué es el versionamiento de código fuente?  
+Es el proceso de gestionar los cambios en el código fuente a lo largo del tiempo, permitiendo la colaboración, 
+el seguimiento de versiones y la recuperación de estados anteriores del proyecto.
+
+Comandos vistos en clase:
+- git init
+- git clone
+- git checkout -b
+- git add
+- git commit -m
+- git push
+- git pull
+- git merge
+- git branch
+- git status
