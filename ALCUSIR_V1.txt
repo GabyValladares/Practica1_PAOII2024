@@ -1,0 +1,14 @@
+¿Qué es el versionamiento de código fuente? 
+
+El versionamiento permite compartir y reutilizar código o cualquier otro tipo de información para poder trabajar de manera colaborativa en equipo.
+
+
+comandos vistos en clases .
+
+git branch ---- -----------------permite ver el nombre de la rama en la que se está trabajando
+git checkout nombreRama_branch----permite cambiarse de rama
+git fetch-------------------------permite llamar a los archivos de un repositorio
+git pull--------------------------permite descargar la información de la nube al repositorio local
+git add .-------------------------permite guardar los cambios en el repositorio
+git commit -m --------------------permite poner un comentario
+git push--------------------------permite subir o empujar los archivos locales a la nube.
